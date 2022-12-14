@@ -17,7 +17,7 @@ Brown::      #4b2707
    /* General */
 
    body{
-    background: #f2f3ee url('../IMAGES/BACKGROUND\ 2.jpeg') top left repeat;
+    background: url('../IMAGES/BACKGROUND\ 2.jpeg') top left repeat;
     color: #4b2707;
     font-size: 14px;
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
